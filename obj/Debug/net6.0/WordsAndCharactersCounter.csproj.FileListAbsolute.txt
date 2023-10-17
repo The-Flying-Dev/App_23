@@ -1,0 +1,15 @@
+C:\Users\Work\Desktop\WordsAndCharactersCounter\obj\Debug\net6.0\WordsAndCharactersCounter.csproj.AssemblyReference.cache
+C:\Users\Work\Desktop\WordsAndCharactersCounter\obj\Debug\net6.0\WordsAndCharactersCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Desktop\WordsAndCharactersCounter\obj\Debug\net6.0\WordsAndCharactersCounter.AssemblyInfoInputs.cache
+C:\Users\Work\Desktop\WordsAndCharactersCounter\obj\Debug\net6.0\WordsAndCharactersCounter.AssemblyInfo.cs
+C:\Users\Work\Desktop\WordsAndCharactersCounter\obj\Debug\net6.0\WordsAndCharactersCounter.csproj.CoreCompileInputs.cache
+C:\Users\Work\Desktop\WordsAndCharactersCounter\bin\Debug\net6.0\WordsAndCharactersCounter.exe
+C:\Users\Work\Desktop\WordsAndCharactersCounter\bin\Debug\net6.0\WordsAndCharactersCounter.deps.json
+C:\Users\Work\Desktop\WordsAndCharactersCounter\bin\Debug\net6.0\WordsAndCharactersCounter.runtimeconfig.json
+C:\Users\Work\Desktop\WordsAndCharactersCounter\bin\Debug\net6.0\WordsAndCharactersCounter.dll
+C:\Users\Work\Desktop\WordsAndCharactersCounter\bin\Debug\net6.0\WordsAndCharactersCounter.pdb
+C:\Users\Work\Desktop\WordsAndCharactersCounter\obj\Debug\net6.0\WordsAndCharactersCounter.dll
+C:\Users\Work\Desktop\WordsAndCharactersCounter\obj\Debug\net6.0\refint\WordsAndCharactersCounter.dll
+C:\Users\Work\Desktop\WordsAndCharactersCounter\obj\Debug\net6.0\WordsAndCharactersCounter.pdb
+C:\Users\Work\Desktop\WordsAndCharactersCounter\obj\Debug\net6.0\WordsAndCharactersCounter.genruntimeconfig.cache
+C:\Users\Work\Desktop\WordsAndCharactersCounter\obj\Debug\net6.0\ref\WordsAndCharactersCounter.dll
